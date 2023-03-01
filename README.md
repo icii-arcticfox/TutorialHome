@@ -11,15 +11,18 @@ Welcome to Arctic Fox! This GitHub repo serves as a landing page for the Arctic 
 <br>
 
 # Tutorials List
-## [1) Debounce Circuit](https://github.com/icii-arcticfox/ArcticFox_Debounce_Tutorial)
+## [1) Getting Started](https://github.com/icii-arcticfox/GettingStartedTutorial1)
+An introduction to Arctic Fox. We take you through the basics of adding automations to your code and running Arctic Fox. 
+
+## [2) Debounce Circuit](https://github.com/icii-arcticfox/ArcticFox_Debounce_Tutorial)
 Physical signals often contain noise and need pre-processing. Debouncing is one such example. This tutorial shows you thehow to use Arctic Fox to debounce a button press using a counter. 
 - Automation Focus: Rising Edge, Counter, TestModule
 
-## [2) Temperature Anomaly](https://github.com/icii-arcticfox/ArcticFox_TemperatureAnomaly_Tutorial)
+## [3) Temperature Anomaly](https://github.com/icii-arcticfox/ArcticFox_TemperatureAnomaly_Tutorial)
 Data from sensors can often contain anomalous values that need to be filtered out before processing data. This tutorial uses Arctic Fox to average past temperature readings to identify anomalous temperatures. We recommend you complete the Button Debounce tutorial first.  
 - Automation Focus: SerialShifter, SetValue ($), always, Non-Blocking, Reset
 
-## [3) Handwash Sensor](https://github.com/icii-arcticfox/ArcticFox_Handwash_Tutorial)
+## [4) Handwash Sensor](https://github.com/icii-arcticfox/ArcticFox_Handwash_Tutorial)
 Physical signals often contain noise and need pre-processing. Debouncing is one such example. This tutorial shows you thehow to use Arctic Fox to debounce a button press using a counter. 
 - Automation Focus: Calculate
 - Automation API Focus: Dependencies, ApplyAutomation, Reg, CodeAfterNext
