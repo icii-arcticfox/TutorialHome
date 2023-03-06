@@ -10,6 +10,13 @@ Welcome to Arctic Fox! This GitHub repo serves as a landing page for the Arctic 
 <br>
 <br>
 
+### Table of Contents
+1. [Tutorials List](#tutorials-list)
+2. [How To Use Tutorials](#how-to-use-tutorials)
+<br>
+<br>
+<br>
+
 # Tutorials List
 ## [1) Getting Started](https://github.com/icii-arcticfox/GettingStartedTutorial1)
 An introduction to Arctic Fox. We take you through the basics of adding automations to your code and running Arctic Fox. 
