@@ -39,7 +39,7 @@ Physical signals often contain noise and need pre-processing. Debouncing is one 
 <br>
 
 # How To Use Tutorials
-We designed Arctic Fox and its tutorials to be simple to use. Follow the guide below to use Arctic Fox on Codespaces. If the below seems long, it's just because it's pictures. It is a rather short and simlpe process. 
+We designed Arctic Fox and its tutorials to be simple to use. Follow the guide below to use Arctic Fox on Codespaces. If the below seems long, it's just because it's pictures. It is a rather short and simple process. 
 
 <br/><br/>
 Click the green code button at the top of the repo. 
